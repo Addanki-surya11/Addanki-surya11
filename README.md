@@ -1,98 +1,82 @@
-# 🌟 Hi there, I'm Addanki Surya! 
+<!-- Waving animated banner at the top -->
+<img src="https://capsule-render.herokuapp.com/type=waving&color=39D353&height=200&section=header&text=Addanki%20Surya&fontSize=50&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast;Full+Stack+Web+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <!-- Typing text animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Eager+to+Learn+%26+Build;AI+%26+ML+Explorer;Junior+Software+Developer;Data+Analyst+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGE1PZDL44GmnCOV/giphy.gif" width="25px"> Welcome to my profile! I am a passionate beginner software developer eager to build smart solutions and learn new technologies.
 </p>
 
 ---
 
 ### 💫 About Me
-I am a passionate software engineer specializing in **Artificial Intelligence, Deep Learning, and Full-Stack Development**. I love bridging the gap between complex algorithms and user-centric web applications. I focus on designing intelligent systems (like computer vision models and legal NLP parsers) while building robust full-stack applications to solve real-world problems.
+I'm a beginner-level software builder. I love learning about **Artificial Intelligence (AI), Machine Learning (ML), Data Analysis**, and **Full-Stack Development**. I focus on creating simple, useful applications as I grow my coding skills.
 
-* 🧠 **AI & ML**: Deep Learning (CNNs, ResNet), NLP (Transformers, spaCy, NLTK), and predictive modeling (XGBoost).
-* 🌐 **Web Dev**: Designing complete end-to-end applications with interactive admin/user roles and QR code systems.
-* ⚡ **Goal**: Building state-of-the-art products that make daily operations smarter and more efficient.
-
----
-
-### 🛠️ Technical Toolbox
-
-<table align="center" style="width: 100%; border: none;">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚡ Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>🧠 Machine Learning & Data</h4>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP--spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🌐 Web Frameworks & Libraries</h4>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>⚙️ Tools & DevOps</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* 📚 **Focus Areas**: AI/ML models, simple data analysis, and building web management portals.
+* 🌱 **Current Learning**: Enhancing my Python and JavaScript skills, and exploring deep learning basics.
+* 🚀 **My Goal**: To practice building, writing clean code, and collaborating on junior-level projects.
 
 ---
 
-### 📂 Featured Projects
+### 🛠️ My Tech Stack
+<p align="center">
+  <!-- Interactive-looking Skill Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tensorflow,pytorch,git,github,vscode,nodejs" />
+  </a>
+</p>
 
-#### 🧠 Artificial Intelligence & Deep Learning
+---
 
-* **[Skin Cancer Detection](https://github.com/Addanki-surya11/Skin-Cancer-Detection)**
-  * *Tech*: `Python`, `ResNet`, `XGBoost`, `TensorFlow`, `OpenCV`
-  * *Description*: A reliable deep learning pipeline that extracts features from dermatological images using ResNet and classifies them with XGBoost for enhanced cancer detection accuracy.
+### 📂 Featured Projects (First Steps & Learning)
+
+#### 🧠 AI / ML & Data Analysis Projects
+
+* 🔬 **[Skin Cancer Detection](https://github.com/Addanki-surya11/Skin-Cancer-Detection)**
+  * *Tech*: `Python`, `ResNet`, `XGBoost`, `TensorFlow`
+  * *Description*: A beginner-friendly project that uses neural networks to study skin images and classify them, helping me learn computer vision and deep learning workflows.
   
-* **[Natural Language Processing for Legal Documents](https://github.com/Addanki-surya11/Natural-Language-Processing-for-Legal-Doctuments)**
-  * *Tech*: `Python`, `spaCy`, `Transformers (Hugging Face)`, `NLTK`
-  * *Description*: An intelligent NLP-based contract and legal analysis engine that parses complex documents, extracts key clauses, and generates simplified executive summaries.
+* 💼 **[HIRE-FIT-AI](https://github.com/Addanki-surya11/HIRE-FIT-AI)**
+  * *Tech*: `Python`, `Machine Learning`, `Natural Language Processing`
+  * *Description*: A simple script that reads and analyzes resume text to help match candidate skills with job descriptions.
 
-* **[HIRE-FIT-AI](https://github.com/Addanki-surya11/HIRE-FIT-AI)**
-  * *Tech*: `Python`, `Machine Learning`, `NLP`
-  * *Description*: An automated screening system that analyzes resumes and extracts key metrics to evaluate candidate fitness for targeted roles.
+* 📈 **[Stock Market Predictor](https://github.com/Addanki-surya11/stock-market-predictor)**
+  * *Tech*: `Python`, `Scikit-Learn`, `Pandas`
+  * *Description*: A data analysis model trained to predict future stock prices using history trends, helping me learn data visualization and linear regression.
 
-* **[Chat Bot Creation](https://github.com/Addanki-surya11/Chat-bot-creation) & [Image Recognition CNN](https://github.com/Addanki-surya11/Image-Recognition)**
-  * *Description*: A rule-based conversational agent using NLP text processing alongside a TensorFlow Convolutional Neural Network (CNN) trained to classify CIFAR-10/Fashion-MNIST image datasets.
+* 🤖 **[Chat Bot Creation](https://github.com/Addanki-surya11/Chat-bot-creation)**
+  * *Tech*: `Python`, `NLTK (Natural Language Toolkit)`
+  * *Description*: A basic rule-based conversational chatbot to practice text processing and response matching.
 
-#### 🌐 Full-Stack & Management Systems
+#### 🌐 Web Development Projects
 
-* **[SMART MESS (Hostel Food Management)](https://github.com/Addanki-surya11/SMART-MESS)**
-  * *Tech*: `HTML`, `CSS`, `JavaScript`, `Node.js`, `QR-Code API`
-  * *Description*: A comprehensive campus dining portal featuring individual Admin and Student dashboards. Optimizes food booking, displays daily menus, and implements QR codes for instant check-in verification.
+* 🍱 **[SMART MESS (Hostel Dining Management)](https://github.com/Addanki-surya11/SMART-MESS)**
+  * *Tech*: `HTML`, `CSS`, `JavaScript`, `Node.js`
+  * *Description*: A simple hostel food portal with student and admin logins, showing menus and generating a QR code for meal verification.
 
-* **[Appointment Booking System](https://github.com/Addanki-surya11/Appointment-Booking-System)**
-  * *Tech*: `JavaScript`, `HTML5`, `CSS3`, `Local Storage`
-  * *Description*: A sleek, responsive application to schedule, edit, and cancel appointments seamlessly, utilizing client-side caching for optimal speed and offline usability.
-
-* **[College Event Management Portal](https://github.com/Addanki-surya11/College-Event-Management-Portal)**
-  * *Description*: A collaborative web portal designed to coordinate university festivals and technical events, streamlining registrations and event scheduling.
+* ⛅ **[Weather Forecast App](https://github.com/Addanki-surya11/Weather-Forecast-App)**
+  * *Tech*: `HTML`, `CSS`, `JavaScript`
+  * *Description*: A classic beginner app that queries a public weather API to fetch and display current forecast details for any city.
 
 ---
 
-### 📊 GitHub Analytics
+### 🎮 Contribution Snake Game (Total Mad Animation!)
+<p align="center">
+  <!-- This snake game is automatically updated every 12 hours by GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/Addanki-surya11/Addanki-surya11/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Grid" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Addanki-surya11&show_icons=true&theme=tokyonight&count_private=true" alt="Surya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Addanki-surya11&show_icons=true&theme=tokyonight&count_private=true" alt="Surya's Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addanki-surya11&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addanki-surya11&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -101,7 +85,7 @@ I am a passionate software engineer specializing in **Artificial Intelligence, D
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE">
@@ -113,10 +97,6 @@ I am a passionate software engineer specializing in **Artificial Intelligence, D
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Addanki-surya11/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
-</p>
-
-<p align="center" style="font-size: 11px; color: grey;">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
