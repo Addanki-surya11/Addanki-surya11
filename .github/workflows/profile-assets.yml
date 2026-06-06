@@ -1,0 +1,54 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Profile Animations & 3D Charts
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 1. Generate 3D Contribution Graph (Isometric City View)
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. Generate 2D Snake contribution grid animation
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 3. Copy snake assets to the dist or root folder so they can be pushed easily
+      - name: Prepare assets
+        run: |
+          mkdir -p assets
+          cp dist/github-contribution-grid-snake.svg assets/
+          cp dist/github-contribution-grid-snake-dark.svg assets/
+
+      # 4. Commit and push generated assets directly back to main branch
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A .
+          if git commit -m "Auto-generated profile assets (3D city & snake game)"; then
+            git push
+          fi
