@@ -1,11 +1,11 @@
 <!-- Waving animated banner at the top using Vercel API -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=180&section=header&text=Surya%20Vamsi&fontSize=45&animation=fadeIn&fontColor=030305" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=180&section=header&text=ADDANKI%20SURYA&fontSize=45&animation=fadeIn&fontColor=030305" width="100%" />
 </p>
 
-<!-- Cinematic 3D Developer Workstation Workspace -->
+<!-- Cinematic 3D Developer Workstation Workspace (Reduced Size) -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="80%" alt="Cinematic 3D Coding Workspace" />
+  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="450" alt="Cinematic 3D Coding Workspace" />
 </p>
 
 <p align="center">
