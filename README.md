@@ -1,11 +1,11 @@
-<!-- Hero Section with Glowing Waving Banner -->
+<!-- Waving animated banner at the top using Vercel API -->
 <p align="center">
-  <img src="https://capsule-render.herokuapp.com/type=waving&color=00e5a0&height=180&section=header&text=Surya%20Vamsi&fontSize=45&animation=fadeIn&fontColor=030305" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5a0&height=180&section=header&text=Surya%20Vamsi&fontSize=45&animation=fadeIn&fontColor=030305" width="100%" />
 </p>
 
-<!-- 3D Cinematic Workspace Animation -->
+<!-- Cinematic 3D Developer Workstation Workspace -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Work.gif" width="75%" style="border-radius: 15px; border: 2px solid rgba(0, 229, 160, 0.3); box-shadow: 0 10px 40px rgba(0, 229, 160, 0.2);" alt="3D Workstation Setup" />
+  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="80%" alt="Cinematic 3D Coding Workspace" />
 </p>
 
 <p align="center">
